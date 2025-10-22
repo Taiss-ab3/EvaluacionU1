@@ -5,4 +5,5 @@ Una rama en GitHub es una copia del proyecto principal que permite desarrollar n
 
 
 ##¿Qué es la rama main? 
+
 La rama main (en español, “rama principal”) es la rama principal o base en la mayoría de los proyectos que usan Git, un sistema de control de versiones.
